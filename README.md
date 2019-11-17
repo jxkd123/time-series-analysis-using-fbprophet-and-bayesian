@@ -5,4 +5,4 @@ Build Facebook's Prophet in PyMC3; Bayesian time series analyis with Generalized
 
 [Prophet and Bayesian](https://www.ritchievink.com/blog/2018/10/09/build-facebooks-prophet-in-pymc3-bayesian-time-series-analyis-with-generalized-additive-models/)
 
-[PyDLM manual](https://pydlm.github.io/#dynamic-linear-models-user-manual)
+[PyDLM Bayesian dynamic linear model manual](https://pydlm.github.io/#dynamic-linear-models-user-manual)
