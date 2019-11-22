@@ -8,3 +8,5 @@ Build Facebook's Prophet in PyMC3; Bayesian time series analyis with Generalized
 [PyDLM Bayesian dynamic linear model manual](https://pydlm.github.io/#dynamic-linear-models-user-manual)
 
 [Bayesian Network](spomegranate.readthedocs.io/en/latest/BayesianNetwork)
+
+[pomegranate](https://github.com/jmschrei/pomegranate)
