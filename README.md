@@ -10,3 +10,5 @@ Build Facebook's Prophet in PyMC3; Bayesian time series analyis with Generalized
 [Bayesian Network](spomegranate.readthedocs.io/en/latest/BayesianNetwork)
 
 [pomegranate](https://github.com/jmschrei/pomegranate)
+
+[OpenXAIProject/Automatic-Stock-Trading](https://github.com/OpenXAIProject/Automatic-Stock-Trading)
